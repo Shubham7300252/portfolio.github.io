@@ -1,0 +1,22 @@
+GITHUB PAGES SETUP
+
+Upload the CONTENTS of this folder to the ROOT of your GitHub repository.
+
+CORRECT:
+YOUR-REPO/
+  index.html
+  style.css
+  script.js
+  assets/
+  skills/
+  ux-ui/
+
+Do NOT upload an extra portfolio-fixed folder.
+
+Then:
+GitHub -> Settings -> Pages -> Deploy from a branch
+Branch: main
+Folder: /(root)
+Save.
+
+All portfolio image, video, stylesheet and project paths were normalized for GitHub Pages.
